@@ -1,0 +1,26 @@
+div{
+    background-color: azure;
+    width: 500px;
+    height: 400px;
+    margin-top: 150px;
+    border-radius: 15px;
+}
+h1{
+   color: black;
+    
+}
+body{
+    background-image: url("comer-dormir-codificar-repetir_2560x1440_xtrafondos.com.jpg");
+    background-position: center;
+    background-size: cover;
+}
+img{
+   border-radius: 10px;
+   margin-top: 20px;
+}
+p{
+   color:black;
+  margin-right: 20px;
+  margin-left: 20px;
+  
+}
